@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "slot-gacor-terbaik-2022:toggle"
   },
-  "repository": "https://github.com/Getol99/slot-gacor-terbaik-2022",
+  "repository": "https://github.com/Getol99/slot-gacor-terbaik-2022.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
