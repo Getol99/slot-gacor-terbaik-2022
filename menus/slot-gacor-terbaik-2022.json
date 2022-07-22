@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-gacor-terbaik-2022",
+        "command": "slot-gacor-terbaik-2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-gacor-terbaik-2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-gacor-terbaik-2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
