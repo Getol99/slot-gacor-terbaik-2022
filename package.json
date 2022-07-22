@@ -1,9 +1,14 @@
 {
   "name": "slot-gacor-terbaik-2022",
   "main": "./lib/slot-gacor-terbaik-2022",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Kumpulan Slot Gacor Terbaik dari indobet paling lengkap di Indonesia. Dapatkan segera hanya dengan daftar slot gacor minimal deposit cuma 25rb.",
-  "keywords": ["slot gacor", "slot online", "situs slot gacor", "daftar slot gacor"],
+  "keywords": [
+    "slot gacor",
+    "slot online",
+    "situs slot gacor",
+    "daftar slot gacor"
+  ],
   "activationCommands": {
     "atom-workspace": "slot-gacor-terbaik-2022:toggle"
   },
@@ -12,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
